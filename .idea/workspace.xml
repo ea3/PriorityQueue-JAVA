@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Us7JdKFixBNWB7M0DgzTa3RKLq" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
@@ -57,22 +60,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="790" height="268" key="GridCell.Tab.0.bottom" timestamp="1576133631232">
+    <state width="790" height="268" key="GridCell.Tab.0.bottom" timestamp="1576133745647">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="790" height="268" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1576133631232" />
-    <state width="790" height="268" key="GridCell.Tab.0.center" timestamp="1576133631231">
+    <state width="790" height="268" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1576133745647" />
+    <state width="790" height="268" key="GridCell.Tab.0.center" timestamp="1576133745646">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="790" height="268" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1576133631231" />
-    <state width="790" height="268" key="GridCell.Tab.0.left" timestamp="1576133631230">
+    <state width="790" height="268" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1576133745646" />
+    <state width="790" height="268" key="GridCell.Tab.0.left" timestamp="1576133745646">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="790" height="268" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1576133631230" />
-    <state width="790" height="268" key="GridCell.Tab.0.right" timestamp="1576133631231">
+    <state width="790" height="268" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1576133745646" />
+    <state width="790" height="268" key="GridCell.Tab.0.right" timestamp="1576133745646">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="790" height="268" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1576133631231" />
+    <state width="790" height="268" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1576133745646" />
     <state width="790" height="331" key="GridCell.Tab.1.bottom" timestamp="1576133484376">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>

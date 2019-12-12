@@ -22,6 +22,8 @@ public class Main {
         System.out.println(pq.peek());
         System.out.println(pq.remove(54));
         System.out.println(pq.peek());
+        pq.add(-1);
+        System.out.println(pq.peek());
 
 
 
